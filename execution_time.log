@@ -1,0 +1,315 @@
+2020-06-02 16:46:20,101 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:58: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-06-02 16:46:20,101 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:67: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-06-02 16:46:20,108 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:190: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2020-06-02 16:46:20,108 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:55: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-06-02 16:46:20,109 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:56: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-06-02 16:46:20,111 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:139: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+2020-06-02 16:46:20,117 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:492: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2020-06-02 16:46:20,118 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\layers\core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+2020-06-02 16:46:20,133 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\keras\initializers.py:119: calling RandomUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-02 16:46:20,142 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-06-02 16:46:20,570 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:147: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-06-02 16:46:20,576 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:149: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-02 16:46:20,904 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2020-06-02 16:46:20,904 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2020-06-02 16:46:20,904 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_variable_scope is deprecated. Please use tf.compat.v1.get_variable_scope instead.
+
+2020-06-02 16:46:21,738 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:114: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-06-02 16:46:22,693 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:148: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-06-02 16:46:22,695 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:108: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-06-02 16:46:22,695 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:109: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-06-02 16:46:23,729 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:188: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-06-02 16:50:28,132 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:58: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-06-02 16:50:28,132 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:67: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-06-02 16:50:28,138 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:190: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2020-06-02 16:50:28,138 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:55: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-06-02 16:50:28,139 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:56: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-06-02 16:50:28,141 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:139: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+2020-06-02 16:50:28,146 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:492: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2020-06-02 16:50:28,147 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\layers\core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+2020-06-02 16:50:28,170 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\keras\initializers.py:119: calling RandomUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-02 16:50:28,185 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-06-02 16:50:28,601 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:147: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-06-02 16:50:28,607 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:149: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-02 16:50:28,887 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2020-06-02 16:50:28,888 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2020-06-02 16:50:28,888 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_variable_scope is deprecated. Please use tf.compat.v1.get_variable_scope instead.
+
+2020-06-02 16:50:29,567 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:114: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-06-02 16:50:30,459 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:148: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-06-02 16:50:30,461 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:108: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-06-02 16:50:30,461 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:109: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-06-02 16:50:31,594 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:188: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-06-02 16:53:19,069 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:58: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-06-02 16:53:19,069 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:67: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-06-02 16:53:19,075 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:190: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2020-06-02 16:53:19,076 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:55: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-06-02 16:53:19,076 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:56: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-06-02 16:53:19,077 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:139: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+2020-06-02 16:53:19,083 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:492: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2020-06-02 16:53:19,083 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\layers\core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+2020-06-02 16:53:19,103 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\keras\initializers.py:119: calling RandomUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-02 16:53:19,115 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-06-02 16:53:19,537 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:147: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-06-02 16:53:19,543 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:149: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-02 16:53:19,817 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2020-06-02 16:53:19,817 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2020-06-02 16:53:19,817 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_variable_scope is deprecated. Please use tf.compat.v1.get_variable_scope instead.
+
+2020-06-02 16:53:20,497 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:114: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-06-02 16:53:21,377 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:148: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-06-02 16:53:21,379 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:108: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-06-02 16:53:21,379 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:109: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-06-02 16:53:22,464 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:188: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-06-02 17:01:37,602 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:58: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-06-02 17:01:37,602 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:67: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-06-02 17:01:37,608 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:190: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2020-06-02 17:01:37,609 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:55: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-06-02 17:01:37,609 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:56: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-06-02 17:01:37,611 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:139: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+2020-06-02 17:01:37,615 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:492: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2020-06-02 17:01:37,616 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\layers\core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+2020-06-02 17:01:37,630 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\keras\initializers.py:119: calling RandomUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-02 17:01:37,638 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-06-02 17:01:38,032 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:147: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-06-02 17:01:38,038 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:149: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-02 17:01:38,312 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2020-06-02 17:01:38,313 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2020-06-02 17:01:38,313 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_variable_scope is deprecated. Please use tf.compat.v1.get_variable_scope instead.
+
+2020-06-02 17:01:39,086 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:114: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-06-02 17:01:40,057 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:148: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-06-02 17:01:40,059 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:108: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-06-02 17:01:40,060 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:109: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-06-02 17:01:41,151 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:188: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-06-02 17:12:12,122 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:58: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-06-02 17:12:12,123 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:67: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-06-02 17:12:12,129 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:190: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2020-06-02 17:12:12,129 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:55: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-06-02 17:12:12,130 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:56: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-06-02 17:12:12,132 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:139: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+2020-06-02 17:12:12,137 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:492: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2020-06-02 17:12:12,138 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\layers\core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+2020-06-02 17:12:12,158 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\keras\initializers.py:119: calling RandomUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-02 17:12:12,170 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-06-02 17:12:12,634 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:147: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-06-02 17:12:12,640 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:149: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-02 17:12:12,942 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2020-06-02 17:12:12,942 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2020-06-02 17:12:12,943 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_variable_scope is deprecated. Please use tf.compat.v1.get_variable_scope instead.
+
+2020-06-02 17:12:13,626 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:114: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-06-02 17:12:14,541 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:148: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-06-02 17:12:14,542 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:108: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-06-02 17:12:14,543 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:109: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-06-02 17:12:15,591 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:188: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-06-02 17:15:35,917 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:58: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-06-02 17:15:35,917 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:67: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-06-02 17:15:35,923 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:190: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2020-06-02 17:15:35,924 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:55: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-06-02 17:15:35,924 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:56: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-06-02 17:15:35,926 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:139: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+2020-06-02 17:15:35,931 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:492: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2020-06-02 17:15:35,932 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\layers\core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+2020-06-02 17:15:35,952 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\keras\initializers.py:119: calling RandomUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-02 17:15:35,966 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-06-02 17:15:36,380 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:147: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-06-02 17:15:36,386 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:149: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-02 17:15:36,687 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2020-06-02 17:15:36,687 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2020-06-02 17:15:36,687 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_variable_scope is deprecated. Please use tf.compat.v1.get_variable_scope instead.
+
+2020-06-02 17:15:37,458 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:114: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-06-02 17:15:38,465 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:148: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-06-02 17:15:38,467 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:108: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-06-02 17:15:38,467 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:109: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-06-02 17:15:39,509 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:188: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-06-02 17:17:23,109 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:58: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-06-02 17:17:23,110 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:67: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-06-02 17:17:23,116 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:190: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2020-06-02 17:17:23,116 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:55: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-06-02 17:17:23,117 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:56: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-06-02 17:17:23,118 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:139: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+2020-06-02 17:17:23,124 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:492: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2020-06-02 17:17:23,124 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\layers\core.py:332: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+2020-06-02 17:17:23,141 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\keras\initializers.py:119: calling RandomUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-02 17:17:23,150 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-06-02 17:17:23,626 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:147: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-06-02 17:17:23,633 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\deepq\build_graph.py:149: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-02 17:17:24,006 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2020-06-02 17:17:24,006 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2020-06-02 17:17:24,006 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:69: The name tf.get_variable_scope is deprecated. Please use tf.compat.v1.get_variable_scope instead.
+
+2020-06-02 17:17:24,835 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:114: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-06-02 17:17:25,876 - From C:\Users\asus\Documents\GitHub\gym-deepline\gym_deepline\agents\DDQNatml_weighted_q.py:148: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-06-02 17:17:25,878 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:108: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-06-02 17:17:25,878 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:109: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-06-02 17:17:27,052 - From C:\Users\asus\AppData\Local\Programs\Python\Python37\lib\site-packages\stable_baselines\common\tf_util.py:188: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
